@@ -1,0 +1,21 @@
+import os
+import subprocess
+import webbrowser
+import time
+
+def run_streamlit_app():
+    app_file = "app.py"   # your dashboard file
+
+    if not os.path.exists(app_file):
+        print(f"❌ Error: '{app_file}' not found.")
+        return
+
+    print("🚀 Launching Streamlit dashboard...")
+    process = subprocess.Popen(["streamlit", "run", app_file])
+
+    time.sleep(3)  # wait for server to start
+    webbrowser.open("http://localhost:8501")
+    print("✅ Dashboard is running at http://localhost:8501")
+
+if __name__ == "__main__":
+    run_streamlit_app()

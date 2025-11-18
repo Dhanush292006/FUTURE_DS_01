@@ -1,0 +1,8 @@
+At the bottom-right of VS Code, look for Python version (e.g., “Python 3.12”).
+
+If it’s missing, install Python from python.org
+.
+
+Then restart VS Code.
+
+Press Ctrl + ` (backtick) to open the built-in terminal.

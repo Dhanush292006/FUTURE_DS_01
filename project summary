@@ -1,0 +1,20 @@
+# 📦 E-commerce Sales Dashboard – Project Summary
+
+This project is an interactive Streamlit dashboard that analyzes e-commerce sales performance using real or sample transactional data.
+
+## 🎯 Key Goals
+- Understand sales trends
+- Visualize revenue growth
+- Identify top-selling products
+- Compare performance across categories & channels
+- Track returning customers and refunds
+- Assist business teams with real-time insights
+
+## 🛠️ Tech Stack
+- Python
+- Streamlit
+- Pandas
+- Plotly
+- VS Code
+
+---

@@ -1,0 +1,15 @@
+| Column Name    | Description |
+|----------------|-------------|
+| order_id       | Unique order number |
+| user_id        | Unique customer ID |
+| product_id     | Unique product identifier |
+| product_name   | Name of the product |
+| category       | Product category |
+| channel        | Sales channel (App / Web / Store) |
+| quantity       | Number of units sold |
+| revenue        | Total revenue from order |
+| country        | Customer country |
+| is_returned    | Whether the product was returned |
+| order_date     | Date of purchase |
+
+---

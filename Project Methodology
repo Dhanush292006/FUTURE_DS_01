@@ -1,0 +1,24 @@
+## 1️⃣ Data Loading
+- Loaded CSV file using pandas
+- Converted dates and numerical fields
+- Processed boolean return values
+
+## 2️⃣ Data Cleaning
+- Handled missing values
+- Standardized data formats
+- Derived revenue metrics
+
+## 3️⃣ Dashboard Components
+- KPIs
+- Trend charts
+- Pie & bar charts
+- Top product tables
+- Return rate analysis
+- Customer-level metrics
+
+## 4️⃣ Deployment
+- Developed in VS Code
+- Launched with Streamlit
+- Ready for GitHub and web hosting
+
+---

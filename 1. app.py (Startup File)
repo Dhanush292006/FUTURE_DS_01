@@ -1,0 +1,4 @@
+import os
+print("Launching E-commerce Dashboard...")
+os.system("streamlit run dashboard.py")
+

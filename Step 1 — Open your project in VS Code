@@ -1,0 +1,12 @@
+Open VS Code.
+
+Click File → Open Folder...
+
+Choose the folder where your files are (example: ecommerce_dashboard).
+It should contain:
+
+
+code :
+    app.py
+    dashboard_launcher.py
+    sample_data.csv
